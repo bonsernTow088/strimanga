@@ -1,0 +1,26 @@
+{
+  "name": "strimanga",
+  "version": "1.0.0",
+  "description": "A simple task scheduling library for JavaScript",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bonsernTow088/strimanga"
+  },
+  "keywords": [
+    "task",
+    "schedule",
+    "scheduling",
+    "library",
+    "javascript"
+  ],
+  "author": "bonsernTow088",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
